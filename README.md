@@ -1,4 +1,4 @@
-# Fruit-fly-mitochondrial-morphology-assay
+# Fruit-fly-mitochondrial-morphology-assay [![DOI](https://zenodo.org/badge/899414042.svg)](https://doi.org/10.5281/zenodo.14435376)
 
 ![image](https://github.com/user-attachments/assets/52f1868b-0e8b-4143-8fc0-d98e2343e95c)
  
