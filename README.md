@@ -29,6 +29,9 @@ This Fiji macro is designed to analyze the mitochondrial morphology in germline 
 6.	If it is required, manually adjust the threshold value based on the image.
 7.	The final results will be saved in an Excel file for further analysis.
 
+# Tutorial
+YouTube https://www.youtube.com/watch?v=4wJFI8JzmJA
+
 #	Acknowledgements
 •	We thank Dr. Hwei-Jan Hsu(ICOB, AS) for offering the demo image in developing this workflow.
 
