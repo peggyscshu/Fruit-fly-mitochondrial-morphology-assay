@@ -22,7 +22,7 @@ This Fiji macro is designed to analyze the mitochondrial morphology in germline 
 
 #	Instruction 
 1.	Install Fiji is just ImageJ.
-2.	Download the IJM script and demo image. 
+2.	Download the appropriate IJM script depending on whether your image was acquired with Airyscan. 
 3.	Open the Fiji software.
 4.	Drag and drop the image and IJM script to Fiji, then execute it.
 5.	Manual define the cell region with selection tools in Fiji (such as the rectangular or polygon tool) according to the hint.
