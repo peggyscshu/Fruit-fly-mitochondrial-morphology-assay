@@ -30,7 +30,7 @@ This Fiji macro is designed to analyze the mitochondrial morphology in germline 
 7.	The final results will be saved in an Excel file for further analysis.
 
 # Tutorial
-YouTube https://www.youtube.com/watch?v=4wJFI8JzmJA
+YouTube https://youtu.be/dNoRdClj64A
 
 #	Acknowledgements
 •	We thank Dr. Hwei-Jan Hsu(ICOB, AS) for offering the demo image in developing this workflow.
